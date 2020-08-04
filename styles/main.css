@@ -18,14 +18,13 @@
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
     --color-small-info: #C1BCCC;
-    font-size: 100%; /* controle das medidas rem */
+    font-size: 60%;
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
 html,
